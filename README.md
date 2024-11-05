@@ -15,3 +15,6 @@ FiveThirtyEight - https://github.com/fivethirtyeight/data/tree/master/primary-ca
 
 ## dataResult
 This file contains some of the initial result calculations for the impacts of STEM backgrounds.
+
+## Collaborators
+Max Lee, Nikita Kumar, Antonio Ruiz Perez, Sarunyu Umbumroong
