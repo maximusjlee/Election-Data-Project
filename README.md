@@ -4,7 +4,7 @@
 ## Summary
 In this project, we were tasked with looking into public datasets and coming up with questions and conclusions about said data. Looking through candidate election data, we came up with 2 intriguing questions including the STEM background of candidates and the financial background of candidates. To identify the effects of these characteristics on candidate elections, we utilized GLMs and calculated etimated treatment effects to understand these effects.
 
-## prjectFinal
+## projectFinal
 This notebook file includes the whole of the project including both data exploration and final results.
 
 ## dataExploration
