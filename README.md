@@ -1,4 +1,4 @@
-# electionData
+# Election Data Project
  Exploring the characterisitcs of US primary election candidates, and their effects on election results.
 
 ## Summary
