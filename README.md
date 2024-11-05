@@ -10,7 +10,7 @@ This notebook file includes the whole of the project including both data explora
 ## dataExploration
 This file contains the original datasets, combined and cleaned data, as well as some inital data exploration. The datasets were taken from these sources:
 
-Federal Election Comission - https://www.fec.gov/data/browse-data/
+Federal Election Comission - https://www.fec.gov/data/browse-data/<br/>
 FiveThirtyEight - https://github.com/fivethirtyeight/data/tree/master/primary-candidates-2018
 
 ## dataResult
